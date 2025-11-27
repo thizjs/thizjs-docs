@@ -12,7 +12,7 @@ const config = {
   url: 'https://thizjs.vercel.app/',
   baseUrl: '/',
 
-  organizationName: 'thizjs',
+  organizationName: 'santhosh-2504',
   projectName: 'thizjs',
 
   onBrokenLinks: 'throw',
@@ -65,7 +65,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/santhosh-2504/create-thiz-app',
+            href: 'https://github.com/santhosh-2504/thizjs',
             label: 'GitHub',
             position: 'right',
           },

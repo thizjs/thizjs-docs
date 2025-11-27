@@ -299,7 +299,7 @@ export default function Home() {
       {/* Buttons */}
       <div style={buttonsContainerStyle}>
         <a
-          href="https://github.com/santhosh-2504/create-thiz-app"
+          href="https://github.com/santhosh-2504/thizjs"
           style={{...baseButtonStyle, ...primaryHoverStyle}}
           onMouseEnter={() => setPrimaryHover(true)}
           onMouseLeave={() => setPrimaryHover(false)}
