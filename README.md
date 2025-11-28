@@ -4,7 +4,7 @@
 - CLI — https://github.com/santhosh-2504/create-thiz-app
 - Runtime — https://github.com/santhosh-2504/thizjs-express
 - Dev Runtime — https://github.com/santhosh-2504/thizjs-dev
-
+ 
 # Philosophy
 
 ## Why THIZ.js?
